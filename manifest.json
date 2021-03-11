@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "short_name": "hello",
+  "start_url": "/PWA00SPR21SMI/index.html",
+  "display": "standalone"
+}
